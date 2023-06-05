@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GeorgieScript
+- 👀 I’m interested in application development.
+- 🌱 I’m currently learning javascript.
+- 📫 How to reach me: GeorgieScript@Gmail.com
